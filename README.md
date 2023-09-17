@@ -3,6 +3,7 @@
 Материалы занятий для групп факультета СГН.
 
 # Осень 2023
+
 ## Формы для отправки типовиков
 
 - [СГН3-51Б](https://forms.gle/qcR4YfEFgpgUtmPn7)
@@ -10,6 +11,8 @@
 - [СГН3-53Б](https://forms.gle/kbb4g3eBURGrnr2L8)
 - [СГН3-54Б](https://forms.gle/U5Ufx5CxZ6rBSX926)
 ## Модуль 1. Теория графов
+
+[Задания для ТР1](https://drive.google.com/drive/folders/1ETk1QJshfPsRFixPoREdS1CfF6YEIr9L?usp=sharing)
 
 | № | Тема | pdf |
 |:---:|---|:---:|
